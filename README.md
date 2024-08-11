@@ -15,7 +15,11 @@ Curvetopia is built to handle a wide range of curve processing tasks such as smo
 - **Occlusion Handling**: Capable of reconstructing obscured or missing parts of curves, making it invaluable for restoring incomplete digital artworks.
 - **Interactive Visualizations**: Includes tools to visualize the curves before and after processing, allowing for immediate feedback and adjustments.
 
-## Installation
+## Example of Result
+![Result Image 1](https://github.com/AAnimeshTripathy/Adobe-Gensolve/blob/main/Some%20Results/Screenshot%202024-08-11%20234947.png?raw=true)
+![Result Image 2](https://github.com/AAnimeshTripathy/Adobe-Gensolve/blob/main/Some%20Results/Screenshot%202024-08-11%20234959.png?raw=true)
+![Result Image 3](https://github.com/AAnimeshTripathy/Adobe-Gensolve/blob/main/Some%20Results/Screenshot%202024-08-11%20235011.png?raw=true)
+
 
 To get started with Curvetopia, clone this repository and set up a Python environment with the required dependencies:
 
